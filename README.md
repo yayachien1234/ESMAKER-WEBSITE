@@ -1,2 +1,1 @@
-# ESMAKER-WEBSITE
-# FUCK THIS WORLD
+#實作一個簡單的一頁式自我介紹網站
